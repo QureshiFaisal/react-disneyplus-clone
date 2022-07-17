@@ -20,7 +20,7 @@ function Header() {
         <NavMenu>
           <a href="/home">
             <img src="/images/home-icon.svg" alt="HOME" />
-            <span>HOME</span>
+            <span>HOMEE</span>
           </a>
           <a>
             <img src="/images/search-icon.svg" alt="SEARCH" />
